@@ -1,0 +1,1 @@
+Permitida cópia e reprodução desde que referenciado o nome de Alisson Rodolfo Leite
