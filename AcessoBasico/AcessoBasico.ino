@@ -1,10 +1,10 @@
 
-/* Autor: Alisson Rodolfo Leite
+/*  Autor: Alisson Rodolfo Leite
+    Permitida cópia e reprodução desde que referenciado o nome de Alisson Rodolfo Leite
 
-   Descrição: Fazer a leitura de cartões RFID e a executar a abertura ou fechamento de uma cancela controlada por um servo motor
+    Descrição: Fazer a leitura de cartões RFID e a executar a abertura ou fechamento de uma cancela controlada por um servo motor
    
-   Biblioteca:  https://github.com/miguelbalboa/rfid
-
+    Biblioteca:  https://github.com/miguelbalboa/rfid
 */
 // cartao padrao
 byte gravado [4] = {0xB9, 0x94, 0x2D, 0xB3};
